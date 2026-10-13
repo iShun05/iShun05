@@ -10,7 +10,7 @@
 <div align="center">
 
 ```
-  iOS & macOS Developer  ·  Swift · JavaScript · TypeScript  ·  Valencia 🇪🇸
+  Apps para iOS y macOS  ·  Extensiones de Safari  ·  Mods en español  ·  Valencia 🇪🇸
 ```
 
 </div>
@@ -26,8 +26,8 @@ let developer = Developer(
     name:       "David Moreno Sanchez",
     alias:      "iShun05",
     location:   "Valencia, España 🇪🇸",
-    focus:      ["iOS", "macOS", "Safari Extensions", "Chrome Extensions"],
-    languages:  ["Swift", "JavaScript", "TypeScript", "Rust"],
+    focus:      ["iOS", "macOS", "Extensiones de Safari y Chrome", "Mods de juegos en español"],
+    languages:  ["Swift", "JavaScript", "TypeScript", "Lua", "Python", "Rust"],
     learning:   "SwiftUI · Tauri · Vision Framework"
 )
 ```
@@ -41,9 +41,13 @@ let developer = Developer(
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=F05138)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,23 +57,34 @@ let developer = Developer(
 
 ---
 
-### 〉Proyectos
+### 〉Proyectos públicos
 
-> 🔒 Todos los proyectos son privados — trabajo en curso
+Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y guía en español.
+
+| Proyecto | Plataforma | Qué es | Versión | Descarga |
+|---|---|---|---|---|
+| **[Balatro-Modpack-ES](https://github.com/iShun05/Balatro-Modpack-ES)** | Windows · macOS | Pack de 30 mods de Balatro en español: instaladores, guía de cada mod, multijugador estable y puntuación 30x más rápida | [![versión](https://img.shields.io/github/v/release/iShun05/Balatro-Modpack-ES?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/Balatro-Modpack-ES/releases/latest) | [Última versión](https://github.com/iShun05/Balatro-Modpack-ES/releases/latest) |
+| **[GuiaTraduccionES-Balatro](https://github.com/iShun05/GuiaTraduccionES-Balatro)** | Balatro (Steamodded) | Mod con la guía en español de cada mod, traducción de más de 20 mods, más de 30 cierres corregidos y puntuación 30x más rápida | [![versión](https://img.shields.io/github/v/release/iShun05/GuiaTraduccionES-Balatro?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/GuiaTraduccionES-Balatro/releases/latest) | [Última versión](https://github.com/iShun05/GuiaTraduccionES-Balatro/releases/latest) |
+
+<sub>Lua · Steamodded · Lovely · Talisman</sub>
+
+---
+
+### 〉En desarrollo
+
+> 🔒 Repositorios privados — trabajo en curso, sin enlace público
 
 | Proyecto | Plataforma | Descripción |
 |---|---|---|
-| **iMusicNow** | iOS · macOS | Reproductor con integración Now Playing |
-| **iRecognize** | iOS · macOS | Reconocimiento de imágenes con Vision |
-| **iStickerStudio** | iOS | Creador de stickers + extensión iMessage |
-| **iWallpaperStudio** | iOS · macOS | Gestor y creador de fondos de pantalla |
-| **iWidgetsStudio** | iOS · macOS | Creador de widgets personalizados |
-| **iStorageStudio** | Multiplataforma | Gestor de almacenamiento (Tauri) |
-| **iDarkPage** | Safari | Modo oscuro para cualquier web |
-| **iInstagramView** | Safari · Chrome | Visualizador mejorado de Instagram |
-| **iMangaTranslate** | Safari | Traducción de manga en tiempo real |
-| **iPlayVideo** | Safari | Reproductor de video integrado |
-| **iDownload** | Chrome | Gestor de descargas mejorado |
+| **iMusicNow** | iOS · macOS | Reproductor de streaming con letras sincronizadas, Shazam, ecualizador y modo offline |
+| **iStickerStudio** | iOS · iPadOS · macOS | Estudio de stickers con IA, teclado, iMessage, widget y extensión de Safari |
+| **iWallpaperStudio** | iOS · macOS | Creador de fondos de pantalla con IA, presets OLED y formatos para iPhone, Mac y PC |
+| **iWidgetsStudio** | iOS · macOS | Creador de widgets de accesos directos al estilo de las Sugerencias de Siri |
+| **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
+| **iDarkPage** | Safari (iOS · macOS) | Modo oscuro inteligente para cualquier web |
+| **iInstagramView** | Safari · Chrome | Descubre quién no te sigue de vuelta en Instagram |
+| **iMangaTranslate** | Safari (iOS · macOS) | Traduce manga en tiempo real con el OCR de Apple Vision |
+| **iPlayVideo** | Safari (iOS · macOS) | Controlador de vídeo flotante con velocidad, saltos y amplificador |
 
 ---
 
