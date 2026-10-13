@@ -47,6 +47,7 @@ let developer = Developer(
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=F05138)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -76,15 +77,25 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 
 | Proyecto | Plataforma | Descripción |
 |---|---|---|
+| **iManagerStudio** | macOS | La navaja suiza para macOS: isla dinámica, ventanas, centro de limpieza, duplicados con IA y decenas de herramientas |
+| **iCam** | iPhone | Cámara con revelado desde el RAW del sensor e interfaz Liquid Glass sobre negro |
+| **iFitness** | iOS · macOS | Entrenamiento con progresión de cargas y nutrición con IA |
 | **iMusicNow** | iOS · macOS | Reproductor de streaming con letras sincronizadas, Shazam, ecualizador y modo offline |
 | **iStickerStudio** | iOS · iPadOS · macOS | Estudio de stickers con IA, teclado, iMessage, widget y extensión de Safari |
 | **iWallpaperStudio** | iOS · macOS | Creador de fondos de pantalla con IA, presets OLED y formatos para iPhone, Mac y PC |
 | **iWidgetsStudio** | iOS · macOS | Creador de widgets de accesos directos al estilo de las Sugerencias de Siri |
-| **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
+| **iWorkingHours** | iOS · macOS · Web | Registro de horas de trabajo con regla de cuartos de hora y horas nocturnas |
 | **iDarkPage** | Safari (iOS · macOS) | Modo oscuro inteligente para cualquier web |
 | **iInstagramView** | Safari · Chrome | Descubre quién no te sigue de vuelta en Instagram |
 | **iMangaTranslate** | Safari (iOS · macOS) | Traduce manga en tiempo real con el OCR de Apple Vision |
 | **iPlayVideo** | Safari (iOS · macOS) | Controlador de vídeo flotante con velocidad, saltos y amplificador |
+| **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
+| **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
+| **iWallpaper** | Escritorio (Python) | Fondos de pantalla para iPhone con IA de recorte |
+| **iWinInstaller** | Windows 10/11 | Autoinstalador gráfico: apps, juegos, desarrollo y ajustes con perfiles y un clic |
+| **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
+| **Isaac-Modpack-ES** | macOS (Whisky) | Catálogo, instalador y español automático de mods de The Binding of Isaac: Repentance+ |
+| **iAgentBridge** | macOS | Puente local bajo petición entre Codex y Claude Code mediante MCP |
 
 ---
 
