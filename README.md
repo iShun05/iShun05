@@ -27,7 +27,7 @@ let developer = Developer(
     alias:      "iShun05",
     location:   "Valencia, España 🇪🇸",
     focus:      ["iOS", "macOS", "Extensiones de Safari y Chrome", "Mods de juegos en español"],
-    languages:  ["Swift", "JavaScript", "TypeScript", "Lua", "Python", "Rust"],
+    languages:  ["Swift", "JavaScript", "TypeScript", "Lua", "Python", "Rust", "C#", "PowerShell"],
     learning:   "SwiftUI · Tauri · Vision Framework"
 )
 ```
@@ -45,6 +45,9 @@ let developer = Developer(
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D0D0D?style=for-the-badge&logo=swift&logoColor=F05138)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
@@ -93,7 +96,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal: cifrado en cascada, biometría, 2FA y auditoría de filtraciones (Tauri + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iWallpaper** | Escritorio (Python) | Fondos de pantalla para iPhone con IA de recorte |
-| **iWinInstaller** | Windows 10/11 | Instalador gráfico por lotes, perfiles de apps, diagnóstico y seguimiento de configuración |
+| **iWinInstaller** | Windows 10/11 | Instalador EXE con componentes básicos incluidos, apps por lotes y diagnóstico de fallos |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
 | **Isaac-Modpack-ES** | macOS (Whisky) | Catálogo, instalador y español automático de mods de The Binding of Isaac: Repentance+ |
 | **iAgentBridge** | macOS | Puente local bajo petición entre Codex y Claude Code mediante MCP |
