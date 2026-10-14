@@ -92,7 +92,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iWallpaper** | Escritorio (Python) | Fondos de pantalla para iPhone con IA de recorte |
-| **iWinInstaller** | Windows 10/11 | Autoinstalador gráfico: apps, juegos, desarrollo y ajustes con perfiles y un clic |
+| **iWinInstaller** | Windows 10/11 | Instalador gráfico por lotes, perfiles de apps, diagnóstico y seguimiento de configuración |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
 | **Isaac-Modpack-ES** | macOS (Whisky) | Catálogo, instalador y español automático de mods de The Binding of Isaac: Repentance+ |
 | **iAgentBridge** | macOS | Puente local bajo petición entre Codex y Claude Code mediante MCP |
