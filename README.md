@@ -96,7 +96,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con extensiones de navegador: cifrado en cascada, biometría, 2FA y auditoría (Tauri + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iWallpaper** | Escritorio (Python) | Fondos de pantalla para iPhone con IA de recorte |
-| [**iWinInstaller v2.0**](https://github.com/iShun05/iWinInstaller) · [Descargar](https://github.com/iShun05/iWinInstaller/releases/latest) | Windows 10/11 | Instalador público de aplicaciones, progreso legible y escritorio organizado |
+| **iWinInstaller** | Windows 10/11 | Instalador de aplicaciones con progreso legible y escritorio organizado |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
 | **Isaac-Modpack-ES** | macOS (Whisky) | Catálogo, instalador y español automático de mods de The Binding of Isaac: Repentance+ |
 | **iAgentBridge** | macOS | Puente local bajo petición entre Codex y Claude Code mediante MCP |
