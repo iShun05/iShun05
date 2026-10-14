@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=iShun05&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
@@ -10,7 +9,7 @@
 <div align="center">
 
 ```
-  Apps para iOS y macOS  ·  Extensiones de Safari  ·  Mods en español  ·  Valencia 🇪🇸
+  Apps para iOS, macOS y Windows  ·  Extensiones de Safari  ·  Mods en español  ·  Valencia 🇪🇸
 ```
 
 </div>
@@ -26,7 +25,7 @@ let developer = Developer(
     name:       "David Moreno Sanchez",
     alias:      "iShun05",
     location:   "Valencia, España 🇪🇸",
-    focus:      ["iOS", "macOS", "Extensiones de Safari y Chrome", "Mods de juegos en español"],
+    focus:      ["iOS", "macOS", "Windows", "Extensiones de Safari y Chrome", "Mods de juegos en español"],
     languages:  ["Swift", "JavaScript", "TypeScript", "Lua", "Python", "Rust", "C#", "PowerShell"],
     learning:   "SwiftUI · Tauri · Vision Framework"
 )
@@ -67,10 +66,11 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 
 | Proyecto | Plataforma | Qué es | Versión | Descarga |
 |---|---|---|---|---|
+| **[iWinInstaller](https://github.com/iShun05/iWinInstaller)** | Windows 10/11 (x64 · ARM64) | Instalador de aplicaciones para Windows con interfaz oscura, progreso legible, catálogo organizado y configuración de terminales | [![versión](https://img.shields.io/github/v/release/iShun05/iWinInstaller?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/iWinInstaller/releases/latest) | [Última versión](https://github.com/iShun05/iWinInstaller/releases/latest) |
 | **[Balatro-Modpack-ES](https://github.com/iShun05/Balatro-Modpack-ES)** | Windows · macOS | Pack de 30 mods de Balatro en español: instaladores, guía de cada mod, multijugador estable y puntuación 30x más rápida | [![versión](https://img.shields.io/github/v/release/iShun05/Balatro-Modpack-ES?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/Balatro-Modpack-ES/releases/latest) | [Última versión](https://github.com/iShun05/Balatro-Modpack-ES/releases/latest) |
 | **[GuiaTraduccionES-Balatro](https://github.com/iShun05/GuiaTraduccionES-Balatro)** | Balatro (Steamodded) | Mod con la guía en español de cada mod, traducción de más de 20 mods, más de 30 cierres corregidos y puntuación 30x más rápida | [![versión](https://img.shields.io/github/v/release/iShun05/GuiaTraduccionES-Balatro?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/GuiaTraduccionES-Balatro/releases/latest) | [Última versión](https://github.com/iShun05/GuiaTraduccionES-Balatro/releases/latest) |
 
-<sub>Lua · Steamodded · Lovely · Talisman</sub>
+<sub>C# · .NET · PowerShell · WinGet · Lua · Steamodded · Lovely · Talisman</sub>
 
 ---
 
@@ -93,9 +93,8 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iMangaTranslate** | Safari (iOS · macOS) | Traduce manga en tiempo real con el OCR de Apple Vision |
 | **iPlayVideo** | Safari (iOS · macOS) | Controlador de vídeo flotante con velocidad, saltos y amplificador |
 | **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
-| **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con extensiones de navegador: cifrado en cascada, biometría, 2FA y auditoría (Tauri + Rust) |
+| **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con extensiones de navegador: cifrado en cascada, biometría, 2FA, auditoría y contraseña de pánico (Tauri 2 + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
-| **iWinInstaller** | Windows 10/11 | Instalador de aplicaciones con progreso legible y escritorio organizado |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
 | **Isaac-Modpack-ES** | macOS (Whisky) | Catálogo, instalador y español automático de mods de The Binding of Isaac: Repentance+ |
 | **iAgentBridge** | macOS | Puente local bajo petición entre Codex y Claude Code mediante MCP |
