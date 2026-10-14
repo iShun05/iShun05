@@ -90,7 +90,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iMangaTranslate** | Safari (iOS · macOS) | Traduce manga en tiempo real con el OCR de Apple Vision |
 | **iPlayVideo** | Safari (iOS · macOS) | Controlador de vídeo flotante con velocidad, saltos y amplificador |
 | **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
-| **iSecurityKey** | macOS · Windows · Linux | Gestor de contraseñas universal con cifrado de extremo a extremo, Touch ID y 2FA (Tauri + Rust) |
+| **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal: 4 niveles de seguridad, cifrado en cascada, biometría y 2FA (Tauri + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iWallpaper** | Escritorio (Python) | Fondos de pantalla para iPhone con IA de recorte |
 | **iWinInstaller** | Windows 10/11 | Instalador gráfico por lotes, perfiles de apps, diagnóstico y seguimiento de configuración |
