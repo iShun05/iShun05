@@ -88,10 +88,10 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iWallpaperStudio** | iOS · macOS | Creador de fondos de pantalla con IA, presets OLED y formatos para iPhone, Mac y PC |
 | **iWidgetsStudio** | iOS · macOS | Creador de widgets de accesos directos al estilo de las Sugerencias de Siri |
 | **iWorkingHours** | iOS · macOS · Web | Registro de horas de trabajo con regla de cuartos de hora y horas nocturnas |
-| **iDarkPage** | Safari (iOS · macOS) | Modo oscuro inteligente para cualquier web |
-| **iInstagramView** | Safari · Chrome | Descubre quién no te sigue de vuelta en Instagram |
-| **iMangaTranslate** | Safari (iOS · macOS) | Traduce manga en tiempo real con el OCR de Apple Vision |
-| **iPlayVideo** | Safari (iOS · macOS) | Controlador de vídeo flotante con velocidad, saltos y amplificador |
+| **iDarkPage** | Safari (iOS · macOS) · Chrome/Chromium | Extensión de modo oscuro inteligente para páginas web |
+| **iInstagramView** | Safari (iOS · macOS) · Chrome/Chromium | Herramientas de análisis de seguidores para Instagram |
+| **iMangaTranslate** | Safari (iOS · macOS) | Extensión de lectura y traducción de manga basada en Apple Vision |
+| **iPlayVideo** | Safari (iOS · macOS) · Chrome/Chromium | Controles flotantes para vídeo web |
 | **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con extensiones de navegador: cifrado en cascada, biometría, 2FA, auditoría y contraseña de pánico (Tauri 2 + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
