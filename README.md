@@ -96,7 +96,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con cifrado en cascada, extensiones, 2FA y bandeja de sistema con reautenticación biométrica (Tauri 2 + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
-| **Isaac-Modpack-ES** | macOS (Whisky) | Catálogo, instalador y español automático de mods de The Binding of Isaac: Repentance+ |
+| **Isaac-Modpack-ES** | macOS (Whisky) + Windows 10/11 | Pack de mods en español con instalación y perfiles compartidos entre plataformas |
 | **iAgentBridge** | macOS | Puente local bajo petición entre Codex y Claude Code mediante MCP |
 
 ---
