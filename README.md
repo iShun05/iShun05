@@ -96,7 +96,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con cifrado en cascada, extensiones, 2FA y bandeja de sistema con reautenticación biométrica (Tauri 2 + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
-| [**Isaac-Modpack-ES**](https://github.com/iShun05/Isaac-Modpack-ES) | macOS (Whisky) + Windows 10/11 | Modpack en español (v1.9), selector individual y contenido grande · [Repositorio](https://github.com/iShun05/Isaac-Modpack-ES) · [Descarga](https://github.com/iShun05/Isaac-Modpack-ES/releases/latest) |
+| [**Isaac-Modpack-ES**](https://github.com/iShun05/Isaac-Modpack-ES) | macOS (Sikarugir) + Windows 10/11 | Modpack en español (v2.0), selector individual, contenido grande y lanzador de Isaac con REPENTOGON en Mac · [Repositorio](https://github.com/iShun05/Isaac-Modpack-ES) · [Descarga](https://github.com/iShun05/Isaac-Modpack-ES/releases/latest) |
 
 ---
 
