@@ -80,7 +80,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 
 | Proyecto | Plataforma | Descripción |
 |---|---|---|
-| **iManagerStudio** | macOS | Isla dinámica y utilidades para macOS, con cuotas en vivo de Claude Code, Codex y Antigravity |
+| **iManagerStudio** | macOS | Isla dinámica, gestión de ventanas, limpieza y herramientas de pantalla con accesos y atajos personalizables |
 | **iCam** | iPhone | Cámara con revelado desde el RAW del sensor e interfaz Liquid Glass sobre negro |
 | **iFitness** | iOS · macOS | Entrenamiento con progresión de cargas y nutrición con IA |
 | **iMusicNow** | iOS · macOS | Reproductor de streaming con letras sincronizadas, Shazam, ecualizador y modo offline |
