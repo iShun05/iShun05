@@ -66,6 +66,8 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 
 | Proyecto | Plataforma | Qué es | Versión | Descarga |
 |---|---|---|---|---|
+| **[PvZ-Fusion-ES](https://github.com/iShun05/PvZ-Fusion-ES)** | Windows · macOS (Sikarugir) | Parche español de PvZ Fusion: catálogo ampliado, instaladores y actualización automática del parche y su base compatible | [v0.1](https://github.com/iShun05/PvZ-Fusion-ES/releases/tag/v0.1) | [Descargar](https://github.com/iShun05/PvZ-Fusion-ES/releases/latest/download/PvZ-Fusion-ES.zip) |
+| **[Isaac-Modpack-ES](https://github.com/iShun05/Isaac-Modpack-ES)** | Windows · macOS (Sikarugir) | Pack de mods en español, selector individual y lanzador con REPENTOGON | [v2.1](https://github.com/iShun05/Isaac-Modpack-ES/releases/tag/v2.1) | [Última versión](https://github.com/iShun05/Isaac-Modpack-ES/releases/latest) |
 | **[iWinInstaller](https://github.com/iShun05/iWinInstaller)** | Windows 10/11 (x64 · ARM64) | Instalador de aplicaciones para Windows con interfaz oscura, progreso legible, catálogo organizado y configuración de terminales | [![versión](https://img.shields.io/github/v/release/iShun05/iWinInstaller?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/iWinInstaller/releases/latest) | [Última versión](https://github.com/iShun05/iWinInstaller/releases/latest) |
 | **[Balatro-Modpack-ES](https://github.com/iShun05/Balatro-Modpack-ES)** | Windows · macOS | Pack de 30 mods de Balatro en español: instaladores, guía de cada mod, multijugador estable y puntuación 30x más rápida | [![versión](https://img.shields.io/github/v/release/iShun05/Balatro-Modpack-ES?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/Balatro-Modpack-ES/releases/latest) | [Última versión](https://github.com/iShun05/Balatro-Modpack-ES/releases/latest) |
 | **[GuiaTraduccionES-Balatro](https://github.com/iShun05/GuiaTraduccionES-Balatro)** | Balatro (Steamodded) | Mod con la guía en español de cada mod, traducción de más de 20 mods, más de 30 cierres corregidos y puntuación 30x más rápida | [![versión](https://img.shields.io/github/v/release/iShun05/GuiaTraduccionES-Balatro?style=flat-square&label=&color=1a1a2e)](https://github.com/iShun05/GuiaTraduccionES-Balatro/releases/latest) | [Última versión](https://github.com/iShun05/GuiaTraduccionES-Balatro/releases/latest) |
@@ -96,7 +98,6 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Gestor de contraseñas universal con cifrado en cascada, extensiones, 2FA y bandeja de sistema con reautenticación biométrica (Tauri 2 + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
-| [**Isaac-Modpack-ES**](https://github.com/iShun05/Isaac-Modpack-ES) | macOS (Sikarugir) + Windows 10/11 | Modpack en español (v2.0), selector individual, contenido grande y lanzador de Isaac con REPENTOGON en Mac · [Repositorio](https://github.com/iShun05/Isaac-Modpack-ES) · [Descarga](https://github.com/iShun05/Isaac-Modpack-ES/releases/latest) |
 
 ---
 
