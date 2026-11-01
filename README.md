@@ -85,7 +85,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iFamiliar** | macOS · Windows | Compañero chibi de escritorio con personajes importables y conexiones locales de IA |
 | **iManagerStudio** | macOS | Isla dinámica, gestión de ventanas, limpieza y herramientas de pantalla con accesos y atajos personalizables |
 | **iCam** | iPhone | Cámara con revelado desde el RAW del sensor e interfaz Liquid Glass sobre negro |
-| **iFitness** | iOS · macOS | Entrenamiento, nutrición y plan diario con checks, Recordatorios y Calendario de Apple |
+| **iFitness** | iOS · macOS | Plan y diario en iCloud, entrenamiento, nutrición y macros con horas reales |
 | **iMusicNow** | iOS · macOS | Reproductor de streaming con letras sincronizadas, Shazam, ecualizador y modo offline |
 | **iStickerStudio** | iOS · iPadOS · macOS | Estudio de stickers con IA, teclado, iMessage, widget y extensión de Safari |
 | **iWallpaperStudio** | iOS · macOS | Creador de fondos de pantalla con IA, presets OLED y formatos para iPhone, Mac y PC |
