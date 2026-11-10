@@ -83,7 +83,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | Proyecto | Plataforma | Descripción |
 |---|---|---|
 | **iFamiliar** | macOS · Windows | Compañero chibi de escritorio con personajes importables y conexiones locales de IA |
-| **iManagerStudio** | macOS | Isla dinámica, gestión de ventanas, limpieza y herramientas de pantalla con accesos y atajos personalizables |
+| **iManagerStudio** | macOS | Isla dinámica, ventanas, limpieza, monitor local de CPU/RAM/temperatura y compresión y extracción de archivos |
 | **iCam** | iPhone | Cámara con revelado desde el RAW del sensor e interfaz Liquid Glass sobre negro |
 | **iFitness** | iOS · macOS | Plan y diario en iCloud, entrenamiento, nutrición y macros con horas reales |
 | **iMusicNow** | iOS · macOS | Reproductor de streaming con letras sincronizadas, Shazam, ecualizador y modo offline |
