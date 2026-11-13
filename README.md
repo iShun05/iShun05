@@ -54,6 +54,8 @@ let developer = Developer(
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -99,6 +101,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Contraseñas, llaves de acceso, contactos y marcadores cifrados, intercambio HTML, extensiones y biometría (Tauri 2 + Rust) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
+| **iCanal** | macOS | Estudio de vídeo para un canal de tecnología: guion, voz y animaciones en horizontal y vertical (Remotion) |
 
 ---
 
