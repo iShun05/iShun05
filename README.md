@@ -99,6 +99,7 @@ Descarga directa, sin conocimientos técnicos: cada uno incluye instalador y gu�
 | **iPlayVideo** | Safari (iOS · macOS) · Chrome/Chromium | Controles flotantes para vídeo web |
 | **iStorageStudio** | macOS · Windows · Linux | Explorador e inspector universal de unidades y archivos (Tauri + Rust) |
 | **iSecurityKey** | macOS · iOS · Windows · Linux · Android | Contraseñas, llaves de acceso, contactos y marcadores cifrados, intercambio HTML, extensiones y biometría (Tauri 2 + Rust) |
+| **iMediaStudio** | Windows · Linux · macOS · Android · iOS | Stickers y fondos de pantalla en una sola app: recorte de sujeto, editor, Bóveda y exportación a WhatsApp, Telegram e iMessage (Tauri 2 + Rust; en planificación) |
 | **iHomworks** | Windows · Linux · macOS | Aprende y practica PHP en español con un editor tipo VS Code |
 | **iAstralLog** | Web | Guía no oficial en español de Honkai: Star Rail, sin rastreo |
 | **iCanal** | macOS | Estudio de vídeo para un canal de tecnología: guion, voz y animaciones en horizontal y vertical (Remotion) |
